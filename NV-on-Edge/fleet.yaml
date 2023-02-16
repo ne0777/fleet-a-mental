@@ -14,5 +14,5 @@ helm:
       updater:
         enabled: false
       scanner:
-        enabled: false
+        enabled: true
         
