@@ -12,7 +12,7 @@ helm:
       enabled: true
     cve:
       updater:
-        enabled: false
+        enabled: true
       scanner:
         enabled: true
         
